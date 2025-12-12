@@ -1,16 +1,8 @@
 fileFormatVersion: 2
-guid: 4181bfe715a83e843b7538d750dc57cc
-timeCreated: 1484217493
-licenseType: Store
+guid: 8105016687592461f977c054a80ce2f2
 NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 196525
-  packageName: Starter Assets - FirstPerson | Updates in new CharacterController
-    package
-  packageVersion: 1.3
-  assetPath: Assets/StarterAssets/Readme.asset
-  uploadId: 691166
